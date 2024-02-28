@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Auspicious-EX/Python-Basics/blob/main/Images/pythin%20basics.gif?raw=true)](https://)
+[![MasterHead](https://github.com/Auspicious-EX/OOP-Notes-in-JAVA/blob/main/Images/OOP-Notes-in-JAVA.gif?raw=true)](https://)
 
 # Object-Oriented Programming (OOP) Notes in Java
 
